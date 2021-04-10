@@ -1,5 +1,7 @@
 ---
 layout: default
+title: HPBD'21
+description: Workshop on High-Performance and Reliable Big Data
 ---
 
 ## Important Information
