@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HPBD'21
-description: Workshop on High-Performance and Reliable Big Data
+description: Workshop on High-Performance and Reliable Big Data (co-located with SRDS 2021)
 ---
 
 ## Important Information
