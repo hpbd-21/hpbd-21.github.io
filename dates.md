@@ -6,7 +6,7 @@ description: Dates
 
 # Important Dates
 
-* Paper submission: TBC
-* Authors notification: TBC
-* Camera-ready: TBC
+* Paper submission: June 30, 2021
+* Authors notification: July 30, 2021
+* Camera-ready: September 10, 2021
 * Workshop: September 20th, 2021

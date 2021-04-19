@@ -1,0 +1,65 @@
+# Workshop on High-Performance and Reliable Big Data (HPBD'21)
+
+## Call for Papers
+
+The 1st Workshop on High-Performance and Reliable Big Data (HPBD’21) will take place on September 20th, 2021, in Chicago, USA and is co-located with SRDS 2021.
+
+Big Data applications (e.g., data analytics, machine learning, artificial intelligence) are of extreme importance to a wide range of areas such as healthcare, e-commerce, industry and natural sciences. However, as these applications evolve, their demand for more powerful computational and storage resources is also increasing rapidly. This need raises new challenges for users, developers and providers (e.g., cloud computing and High-performance computing centers) of such services. Therefore, research must keep up with the new requirements of these applications while providing novel solutions to optimize their scalability, performance, reliability and security.
+
+The HPBD workshop aims at bringing together researchers across the world in order to solve these new challenges and help building a better understanding about the new directions on big data systems research. Due to the COVID-19 global pandemic, the final format of the workshop (online, hybrid, or physical) is not yet decided. This decision will be coordinated along with the SRDS conference and will be announced in June, 2021.
+
+The workshop is looking for submissions in the form of short papers with a maximum of 6 pages (excluding references). These can include original contributions, experience reports, or work in progress reports (supported by a preliminary validation). The organization welcomes contributions from both academia and industry. All submissions will be reviewed by members of the workshop program committee, who will select the best submissions for presentation at the workshop.
+
+Accepted papers will not be published at proceedings but will be made available to the participants of the workshop. At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
+
+Papers must provide novel research insights and challenges focused on the Big Data field and related ones, including:
+
+* Data Analytics
+* Machine Learning
+* Artificial Intelligence
+* Benchmarking
+* Storage Systems
+* Databases
+* Cloud Computing
+* High-Performance Computing
+* Virtualization
+* Monitoring
+
+## Important Dates
+
+**Paper submission:** June 30, 2021
+**Authors notification:** July 30, 2021
+**Camera-ready:** September 10, 2021
+**Workshop:** September 20, 2021
+
+## Submission guidelines 
+
+Papers must be written in English and must have at most 6 pages (including references), following the IEEE two-column format for conference proceedings. Authors are requested to first register their submissions and then submit their manuscripts in PDF format at the Easychair page <https://easychair.org/conferences/?conf=hpbd21>.
+
+Submissions should not reveal the identity of the authors in any way. I.e., no names, addresses and affiliations should appear in the paper and any references to their own related work should be in the third person. The conference’s double blind review process should avoid bias, yet nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted or anonymized. Authors with further questions on double-blind reviewing are encouraged to contact the PC chairs by email.
+
+## Committees
+
+### General chairs
+
+* Joao Paulo - INESC TEC, Portugal 
+* Todd Evans, TACC, USA
+
+### Program Committee
+
+* João Marco, INESC TEC, Portugal
+* Miguel Matos, INESC ID, Portugal
+* Nuno Machado, Amazon, Spain
+* Valerio Schiavoni, University of Neuchatel, Switzerland
+* Vijay Chidambaram, UTAustin, USA
+* Vinicius Cogo, FCUL, Portugal
+* Weijia Xu, TACC, USA
+* Xinlian Liu, Hood College, USA
+* Yucel Saygin, Sabanci University, Turkey
+* Yusuke Tanimura, AIST, Japan
+
+## Contacts
+
+Web: <https://hpbd-21.github.io>
+
+For further information please contact João Paulo <jtpaulo@inesctec.pt> and Todd Evans <rtevans@tacc.utexas.edu>
