@@ -12,6 +12,7 @@ description: Committees
 # Program Committee
 
 * João Marco, INESC TEC, Portugal
+* Mário David, LIP, Portugal
 * Miguel Matos, INESC ID, Portugal
 * Nuno Machado, Amazon, Spain
 * Valerio Schiavoni, University of Neuchatel, Switzerland

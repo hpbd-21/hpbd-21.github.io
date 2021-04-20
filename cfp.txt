@@ -48,6 +48,7 @@ Submissions should not reveal the identity of the authors in any way. I.e., no n
 ### Program Committee
 
 * João Marco, INESC TEC, Portugal
+* Mário David, LIP, Portugal
 * Miguel Matos, INESC ID, Portugal
 * Nuno Machado, Amazon, Spain
 * Valerio Schiavoni, University of Neuchatel, Switzerland
