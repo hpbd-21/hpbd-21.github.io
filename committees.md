@@ -11,6 +11,7 @@ description: Committees
 
 # Program Committee
 
+* Ignacio Espert, University of Valencia, Spain
 * João Leitão, NOVA LINCS, Portugal
 * João Marco, INESC TEC, Portugal
 * Kostas Magoutis, University of Crete, Greece
