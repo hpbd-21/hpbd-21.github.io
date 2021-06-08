@@ -17,7 +17,7 @@ The main goal of the HPBD workshop is to provide a common forum where systems re
 
 The workshop is looking for submissions in the form of short papers with a maximum of 6 pages (excluding references). These can include original contributions, experience reports, or work in progress reports (supported by a preliminary validation). The organization welcomes contributions from both academia and industry. All submissions will be reviewed by members of the workshop program committee, who will select the best submissions for presentation at the workshop.
 
-Accepted papers will not be published in the proceedings but will be made available to the participants of the workshop. At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
+Accepted papers will **not** be published in the proceedings but will be made available to the participants of the workshop. At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
 
 Topics of interest include, but are not limited to, the following: 
 
