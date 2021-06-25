@@ -7,7 +7,7 @@ description: Workshop on High-Performance and Reliable Big Data (co-located with
 ## Important Information
 
 
-Due to the COVID-19 global pandemic, the workshop will follow a virtual format
+Due to the COVID-19 global pandemic the workshop will follow a virtual format.
 
 # Call For Participation
 
