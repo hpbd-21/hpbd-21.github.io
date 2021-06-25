@@ -2,11 +2,11 @@
 
 ## Call for Papers
 
-The 1st Workshop on High-Performance and Reliable Big Data (HPBD’21) will take place on September 20th, 2021, in Chicago, USA and is co-located with SRDS 2021.
+The 1st Workshop on High-Performance and Reliable Big Data (HPBD’21), co-located with SRDS'21, will be held virtually on September 20th 2021.
 
 Big Data applications (e.g., data analytics, machine learning, artificial intelligence) are of extreme importance to a wide range of areas such as healthcare, e-commerce, industry and natural sciences. However, as these applications evolve, their demand for more powerful computational and storage resources is also increasing rapidly. This need raises new challenges for users, developers and providers (e.g., cloud computing and High-performance computing centers) of such services. Therefore, research must keep up with the new requirements of these applications while providing novel solutions to optimize their scalability, performance, reliability and security.
 
-The HPBD workshop aims at bringing together researchers across the world in order to solve these new challenges and help building a better understanding about the new directions on big data systems research. Due to the COVID-19 global pandemic, the final format of the workshop (online, hybrid, or physical) is not yet decided. This decision will be coordinated along with the SRDS conference and will be announced in June, 2021.
+The HPBD workshop aims at bringing together researchers across the world in order to solve these new challenges and help building a better understanding about the new directions on big data systems research. Due to the COVID-19 global pandemic, the conference will be held in a virtual format.
 
 The workshop is looking for submissions in the form of short papers with a maximum of 6 pages (excluding references). These can include original contributions, experience reports, or work in progress reports (supported by a preliminary validation). The organization welcomes contributions from both academia and industry. All submissions will be reviewed by members of the workshop program committee, who will select the best submissions for presentation at the workshop.
 
@@ -27,7 +27,7 @@ Papers must provide novel research insights and challenges focused on the Big Da
 
 ## Important Dates
 
-**Paper submission:** June 30, 2021
+**Paper submission:** July 7, 2021
 **Authors notification:** July 30, 2021
 **Camera-ready:** September 10, 2021
 **Workshop:** September 20, 2021
