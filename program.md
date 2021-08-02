@@ -4,7 +4,7 @@ title: HPBD'21
 description: Program
 ---
 
-# Accepted Papers ( the workshop's program will be announced later)
+# Accepted Papers
 
 
 * Amit Ruhela, Stephen Lien Harrell and Richard Todd Evans. Scaling Containerization on multi-Petaflops CPU and GPU HPC platforms.
@@ -16,5 +16,7 @@ description: Program
 * Richard Evans. User-oriented Lustre Filesystem Monitoring.
 
 * João Vilaça, João Paulo and Ricardo Vilaça. Geolocate: A geolocation-aware scheduling system for Edge Computing.
+
+The workshop's detailed program will be announced later
 
 
