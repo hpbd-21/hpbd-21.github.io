@@ -18,7 +18,7 @@ description: Program
 
 **11:10AM - 11:30AM** -- Break
 
-**11:30 - 12:45** -- Session 2
+**11:30AM - 12:45AM** -- Session 2
 
 * Miguel Ferreira, André Neves, Rodrigo Gorjão, Carlos Cruz and Miguel L. Pardal. Smart meter data processing: a showcase for simple and efficient textual processing.
 
