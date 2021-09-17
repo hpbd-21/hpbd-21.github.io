@@ -24,9 +24,9 @@ As of 2021, the big data explosion continues, and the best supercomputers in the
 
 * Miguel Ferreira, André Neves, Rodrigo Gorjão, Carlos Cruz and Miguel L. Pardal. Smart meter data processing: a showcase for simple and efficient textual processing.
 
-* César Borges and João Paulo.	Realistic Assessment of Faults in Storage Systems.
-
 * João Vilaça, João Paulo and Ricardo Vilaça. Geolocate: A geolocation-aware scheduling system for Edge Computing.
+
+* César Borges and João Paulo.	Realistic Assessment of Faults in Storage Systems.
 
 **Note:**
 
